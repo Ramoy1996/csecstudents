@@ -14,7 +14,13 @@ include_once 'includes/session.php'?>
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 
     <link rel="stylesheet" href="css/site.css" />
-    
+
+    <style>
+body {
+  background-color: lightblue;
+}
+</style> 
+
     <title>CSEC-Pro - <?php echo $title ?></title>
   </head>
   <body>

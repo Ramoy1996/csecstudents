@@ -15,6 +15,7 @@
         - Email Address
         - Contact Number
      -->
+
     <h1 class="text-center">CSEC Evening Class Registration </h1>
 
     <form method="post" action="success.php" enctype="multipart/form-data">
@@ -59,6 +60,7 @@
         
         <button type="submit" name="submit" class="btn btn-success btn-block">Submit</button>
     </form>
+    
 <br>
 <br>
 <br>

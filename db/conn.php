@@ -1,17 +1,17 @@
 <?php 
     // Development Connection
-    // $host = '127.0.0.1';
-    // $db = 'csecstudents_db';
-    // $user = 'root';
-     //$pass = '';
-     //$charset = 'utf8mb4';
+     $host = '127.0.0.1';
+     $db = 'csecstudents_db';
+    $user = 'root';
+     $pass = '';
+     $charset = 'utf8mb4';
 
     //Remote Database Connection
-    $host = 'sql305.infinityfree.com';
-    $db = 'if0_35662181_csecstudents_db';
-    $user = 'if0_35662181';
-    $pass = 'NSnAkzRxilnMO';
-    $charset = "utf8mb4";
+   // $host = 'sql305.infinityfree.com';
+   // $db = 'if0_35662181_csecstudents_db';
+   // $user = 'if0_35662181';
+   // $pass = 'NSnAkzRxilnMO';
+    //$charset = "utf8mb4";
 
 
     $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
